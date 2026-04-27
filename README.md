@@ -20,13 +20,18 @@
 
 ## 📄 My Resumes
 
+I maintain two role-specific resumes tailored for different career paths:
+
+🔹 **AI/ML Resume** – Focused on deep learning, model development, and AI systems  
+🔹 **Data Scientist Resume** – Focused on data analysis, visualization, and machine learning  
+
 <p align="center">
-  <a href="https://github.com/Virennamo27/Viren Namo DS Resume.pdf/blob/main/assets/Viren_Data_Scientist_Resume.pdf">
-    <img src="https://img.shields.io/badge/Data_Scientist_Resume-Download-blue?style=for-the-badge&logo=readthedocs" />
+  <a href="https://github.com/Virennamo27/Resume/raw/main/Viren%20Namo%20Resume.pdf">
+    <img src="https://img.shields.io/badge/AI%2FML%20Resume-View-blueviolet?style=for-the-badge&logo=tensorflow" />
   </a>
-  
-  <a href="https://github.com/Virennamo27/Viren Namo Resume.pdf/blob/main/assets/Viren_ML_Engineer_Resume.pdf">
-    <img src="https://img.shields.io/badge/ML_Engineer_Resume-Download-green?style=for-the-badge&logo=readthedocs" />
+
+  <a href="https://github.com/Virennamo27/Resume/raw/main/Viren%20Namo%20DS%20Resume.pdf">
+    <img src="https://img.shields.io/badge/Data%20Science%20Resume-View-blue?style=for-the-badge&logo=databricks" />
   </a>
 </p>
 
