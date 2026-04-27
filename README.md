@@ -18,6 +18,18 @@
 
 ---
 
+## 📄 My Resumes
+
+<p align="center">
+  <a href="https://github.com/Virennamo27/YOUR_REPO/blob/main/assets/Viren_Data_Scientist_Resume.pdf">
+    <img src="https://img.shields.io/badge/Data_Scientist_Resume-Download-blue?style=for-the-badge&logo=readthedocs" />
+  </a>
+  
+  <a href="https://github.com/Virennamo27/YOUR_REPO/blob/main/assets/Viren_ML_Engineer_Resume.pdf">
+    <img src="https://img.shields.io/badge/ML_Engineer_Resume-Download-green?style=for-the-badge&logo=readthedocs" />
+  </a>
+</p>
+
 ## 📊 GitHub Stats (Live)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=virennamo27&show_icons=true&theme=radical" />
