@@ -21,11 +21,11 @@
 ## 📄 My Resumes
 
 <p align="center">
-  <a href="https://github.com/Virennamo27/YOUR_REPO/blob/main/assets/Viren_Data_Scientist_Resume.pdf">
+  <a href="https://github.com/Virennamo27/Viren Namo DS Resume.pdf/blob/main/assets/Viren_Data_Scientist_Resume.pdf">
     <img src="https://img.shields.io/badge/Data_Scientist_Resume-Download-blue?style=for-the-badge&logo=readthedocs" />
   </a>
   
-  <a href="https://github.com/Virennamo27/YOUR_REPO/blob/main/assets/Viren_ML_Engineer_Resume.pdf">
+  <a href="https://github.com/Virennamo27/Viren Namo Resume.pdf/blob/main/assets/Viren_ML_Engineer_Resume.pdf">
     <img src="https://img.shields.io/badge/ML_Engineer_Resume-Download-green?style=for-the-badge&logo=readthedocs" />
   </a>
 </p>
