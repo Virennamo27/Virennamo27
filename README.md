@@ -84,18 +84,5 @@
 ---
 
 <div align="center">
-
-## Pinned Projects
-
-</div>
-
-| Project | Description | Stack |
-|---|---|---|
-| [SoundMatch API](https://github.com/Virennamo27/soundmatch-music-hub) | Music recommendation engine — SVD · TF-IDF · Hybrid | Python · FastAPI · scikit-learn |
-| *(your next project)* | *(description)* | *(stack)* |
-
----
-
-<div align="center">
 <sub>Open to Data Analyst · AI/ML Engineer · Data Scientist roles</sub>
 </div>
