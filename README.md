@@ -1,45 +1,10 @@
-
-<br/>
-
-> **Data is the new oil** — but raw oil is useless until refined.
-> That's exactly what I do: refine chaos into clarity, and clarity into decisions.
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**🔍 Data Analyst**<br/>
-*"What happened?"*<br/>
-<sub>Digs through numbers,<br/>surfaces the story</sub>
-
-</td>
-<td align="center" width="33%">
-
-**🤖 ML Engineer**<br/>
-*"What will happen?"*<br/>
-<sub>Builds systems that<br/>learn and predict</sub>
-
-</td>
-<td align="center" width="33%">
-
-**🧬 Data Scientist**<br/>
-*"Why did it happen<br/>& what should we do?"*<br/>
-<sub>The bridge between<br/>insight and action</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
 
-*I sit at the intersection of all three —*
-*part detective, part engineer, part storyteller.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Viren;AI+%2F+ML+Engineer;Data+Scientist;Building+intelligent+systems" alt="Typing SVG" />
 
-**If your business runs on decisions, I help you make better ones. 🚀**
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=A0AEC0&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+actionable+intelligence;Crafting+ML+pipelines+%7C+Recommendation+Systems+%7C+Time+Series" alt="Sub Typing SVG" />
 
 </div>
 
@@ -47,33 +12,18 @@
 
 <div align="center">
 
-## Tech Stack
+### Why Data? Why AI/ML?
+
+</div>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,docker,git,github,postgres,sqlite,react,ts,vscode,jupyter,linux&perline=15" />
-
-</div>
-
----
-
 <div align="center">
-
-## Pinned Projects
-
+<pre>
+🌍  Every click, scroll, purchase, and pause — the world is quietly whispering data.
+     Most people hear noise. I hear patterns.
+</pre>
 </div>
-
-| Project | Description | Stack |
-|---|---|---|
-| [SoundMatch API](https://github.com/Virennamo27/soundmatch-music-hub) | Music recommendation engine — SVD · TF-IDF · Hybrid | Python · FastAPI · scikit-learn |
-| *(your next project)* | *(description)* | *(stack)* |
-
----
-
-<div align="center">
-<sub>Open to Data Analyst · AI/ML Engineer · Data Scientist roles</sub>
-</div>
-
 
 <br/>
 
