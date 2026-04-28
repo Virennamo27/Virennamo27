@@ -104,11 +104,20 @@
 <br/>
 
 [![AI/ML Engineer Resume](https://img.shields.io/badge/Resume-AI%20%2F%20ML%20Engineer-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DIDPKi6azJ0cNBWCf12XVuq9X-0hcxn3/view?usp=drive_link)
-&nbsp;&nbsp;
 [![Data Scientist Resume](https://img.shields.io/badge/Resume-Data%20Scientist-00C49A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1H16uP3QzcNT5MbiwuyxQEKmOAUuA3Amz/view?usp=drive_link)
 
 <br/><br/>
 
 <sub>Open to Data Analyst · AI/ML Engineer · Data Scientist roles</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📌 Featured Projects
+
+*GitHub renders my pinned repositories right below — feel free to explore.*
 
 </div>
