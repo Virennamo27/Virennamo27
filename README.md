@@ -1,92 +1,46 @@
-<h1 align="center">Hi 👋, I'm Viren</h1>
-<h3 align="center">🚀 Data Science Student | ML & NLP Enthusiast | Future AI Engineer</h3>
+<div align="center">
+
+<!-- Animated name card -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Viren;AI+%2F+ML+Engineer;Data+Scientist;Building+intelligent+systems" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=A0AEC0&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+actionable+intelligence;Crafting+ML+pipelines+%7C+Recommendation+Systems+%7C+Time+Series" alt="Sub Typing SVG" />
+
+</div>
 
 ---
 
-## 🧠 About Me
-- 🎓 MSc Data Science Student (Final Year)
-- 🔍 Focused on Machine Learning, NLP & Deep Learning
-- ⚡ Building projects that actually matter for real-world impact
-- 🎯 Goal: Land a high-impact Data Science / ML role
+<div align="center">
+
+## Tech Stack
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,docker,git,github,postgres,sqlite,react,ts,vscode,jupyter,linux&perline=15" />
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sklearn,tensorflow,pytorch,pandas,numpy,postgres,mongodb,git" />
-</p>
+<div align="center">
+
+## Pinned Projects
+
+</div>
+
+<!-- GitHub auto-renders pinned repos below your README on your profile page. -->
+<!-- To pin repos: Profile → Customize your pins → select repos -->
+
+> **Tip:** Pin the repos below via *Customize your pins* on your profile page.
+
+| Project | Description | Stack |
+|---|---|---|
+| [SoundMatch API](https://github.com/Virennamo27/soundmatch-music-hub) | Music recommendation engine — SVD · TF-IDF · Hybrid | Python · FastAPI · scikit-learn |
+| *(your next project)* | *(description)* | *(stack)* |
 
 ---
 
-## 📄 My Resumes
-
-I maintain two role-specific resumes tailored for different career paths:
-
-🔹 **AI/ML Resume** – Focused on deep learning, model development, and AI systems  
-🔹 **Data Scientist Resume** – Focused on data analysis, visualization, and machine learning  
-
-<p align="center">
-  <a href="https://github.com/Virennamo27/Resume/raw/main/Viren%20Namo%20Resume.pdf">
-    <img src="https://img.shields.io/badge/AI%2FML%20Resume-View-blueviolet?style=for-the-badge&logo=tensorflow" />
-  </a>
-
-  <a href="https://github.com/Virennamo27/Resume/raw/main/Viren%20Namo%20DS%20Resume.pdf">
-    <img src="https://img.shields.io/badge/Data%20Science%20Resume-View-blue?style=for-the-badge&logo=databricks" />
-  </a>
-</p>
-
-## 📊 GitHub Stats (Live)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=virennamo27&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virennamo27&theme=radical" />
-</p>
-
----
-
-## 📈 Activity Graph
-[![Viren's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Virennamo27&theme=react-dark)](https://github.com/Virennamo27)
-
----
-
-## 🔥 Featured Projects
-- 🧠 **Fake News Detection (NLP)**  
-  → Built using NLP pipelines, feature engineering & ML models  
-
-- 📊 **Data Dashboard Project**  
-  → Interactive visualization using Tableau / Power BI  
-
-- 📉 **Time Series Forecasting**  
-  → Applied ARIMA / LSTM for real-world prediction  
-
-- 🤖 **Reinforcement Learning Agent (Autonomous Parking)**  
-  → 3D simulation with obstacle avoidance  
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/viren-namo-052525274">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:virennamo27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-## ⚡ Fun Animation
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-</p>
-
----
-
-## 💡 Quote
-> "Models are temporary, but problem-solving skills are permanent."
-
----
-
-<p align="center">
-  ⭐ From <b>Viren</b> — Building towards something big.
-</p>
+<div align="center">
+<sub>Open to Data Analyst · AI/ML Engineer · Data Scientist roles</sub>
+</div>
