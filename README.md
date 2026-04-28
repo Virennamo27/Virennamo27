@@ -87,26 +87,21 @@
 
 ## 📬 Let's Connect
 
-<br/>
+
 
 *Got a problem worth solving? Let's talk data.*
 
-<br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-virennamo27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virennamo27@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viren%20Namo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viren-namo-052525274)
 
-<br/>
 
 ### 📄 Résumés
 
-<br/>
 
 [![AI/ML Engineer Resume](https://img.shields.io/badge/Resume-AI%20%2F%20ML%20Engineer-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DIDPKi6azJ0cNBWCf12XVuq9X-0hcxn3/view?usp=drive_link)
 [![Data Scientist Resume](https://img.shields.io/badge/Resume-Data%20Scientist-00C49A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1H16uP3QzcNT5MbiwuyxQEKmOAUuA3Amz/view?usp=drive_link)
-
-<br/><br/>
 
 <sub>Open to Data Analyst · AI/ML Engineer · Data Scientist roles</sub>
 
